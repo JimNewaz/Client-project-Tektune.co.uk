@@ -1,0 +1,142 @@
+ .custom-btn{
+          width:100% !important;
+      }
+      .bgg-dark{
+          height:10px;
+          width:100%;
+          background-color:#333333;
+          margin-bottom:1px;
+      }
+      .mb-5{
+          margin-bottom: 5px;
+      }
+      .m-6{
+        margin-bottom:4.5rem;
+    }
+      .block1{
+        padding: 40px;
+        background-color: aliceblue;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2px;
+        text-align:center;
+        /*color:red;*/
+      }
+      
+          .ctvc_gainTable{
+              text-align:center;
+          }
+          .ctvc_stage table, th{
+              border-right: 1px solid #fff;
+          }
+          
+          .ctvc_stage table, tr th{
+              border-bottom: 0px !important;
+          }
+          
+          .table th, .table td{
+              border-bottom: 0px !important;
+              border-top: 0px !important;
+          }
+          .table tbody tr td{
+              border-bottom:0px !important;
+          }
+          
+          .ctvc_stage_th, .ctvc_stage_row_title h4 {
+            text-transform: none;
+            font-family: 'robotoregular', Arial, sans-serif;
+          }
+          
+          .ctvc_stage_th, .ctvc_stage_td {
+                background-color: #f7f7f7;
+                text-align: center;
+                width: 25%;
+            }
+            
+            .cttbl_dyno td, th {
+                padding: 1px 15px;
+                margin: 0px;
+            }
+            
+            .ctvc_stage_th{
+                padding: 1px 15px !important;
+                margin: 0px;
+            }
+            
+            .ctvc_stage_row_title {
+                background-color: #e8e8e8;
+                text-align: center;
+                vertical-align: middle !important;
+            }
+            .ctvc_gauge, .ctvc_gauge * {
+                line-height: 1.4;
+                cursor: default;
+            }
+            .ctvc_gauge {
+                display: block;
+                width: 100%;
+                opacity: 0;
+            }
+            
+            .ctvc_gauge .ctvc_gauge_outer {
+                width: 100%;
+                padding-top: 100%;
+                position: relative;
+            }
+            
+            .ctvc_gauge .ctvc_gauge_outer .ctvc_gauge_inner {
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+            }
+            
+            .ctvc_gauge_inner{
+                justify-content: center;
+                align-items: center;
+                display: flex;
+            }
+            .circle{
+                height: 105px;
+                width: 85%;
+                /*height:100px;*/
+                /*width:60%;*/
+                margin-bottom:5px;
+                border: 5px solid #CCCCCC;
+                border-radius: 50%;
+            }
+            .table tbody tr td{
+                padding:20px !important;
+            }
+            
+            .circle-inner{
+                /*margin:0;*/
+                background: white;
+                border-radius: 50%;
+                padding: 20px;
+                /*height: 100px;*/
+                height:84px;
+                width: 90%;
+                margin-left: 5px;
+                margin-top: 5px;
+                border:1px solid #efefef;
+            }
+            
+            .circle-text{
+                color: rgb(219, 0, 0); font-size: 18px;
+            }
+            
+            .ctvc_stage_row_title{
+                border-right:1px solid white;
+            }
+            .ctvc_stage_td
+            {
+                border-right:1px solid white;
+            }
+            
+            @media only screen and (max-width: 799px) {
+                .hidden{ display: none !important; }
+                .services-wrap{padding:0 !important;}
+                .circle-inner{margin-left:4px; padding:10px;}
+            }

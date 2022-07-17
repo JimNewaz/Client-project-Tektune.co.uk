@@ -1,0 +1,19 @@
+[28-Jun-2022 17:44:27 Europe/London] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/gamesto1/tektune.co.uk/dynamicData.php on line 3
+[28-Jun-2022 17:44:34 Europe/London] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/gamesto1/tektune.co.uk/dynamicData.php on line 3
+[29-Jun-2022 08:22:42 Europe/London] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/gamesto1/tektune.co.uk/includes/config.php on line 7
+[29-Jun-2022 08:22:47 Europe/London] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/gamesto1/tektune.co.uk/includes/config.php on line 7
+[29-Jun-2022 08:22:49 Europe/London] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/gamesto1/tektune.co.uk/includes/config.php on line 7
+[29-Jun-2022 08:23:05 Europe/London] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in /home/gamesto1/tektune.co.uk/index.php on line 132
+[29-Jun-2022 08:50:29 Europe/London] PHP Fatal error:  require_once(): Failed opening required '/home/gamesto1/tektune.co.uk/customFunctions.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gamesto1/tektune.co.uk/dynamicData.php on line 2
+[29-Jun-2022 08:50:56 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function getAllModel() in /home/gamesto1/tektune.co.uk/dynamicData.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gamesto1/tektune.co.uk/dynamicData.php on line 7
+[29-Jun-2022 08:51:24 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function getAllModel() in /home/gamesto1/tektune.co.uk/dynamicData.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gamesto1/tektune.co.uk/dynamicData.php on line 7
+[29-Jun-2022 08:52:44 Europe/London] PHP Fatal error:  Uncaught Error: Call to undefined function getAllModel() in /home/gamesto1/tektune.co.uk/dynamicData.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gamesto1/tektune.co.uk/dynamicData.php on line 7
